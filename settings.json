@@ -8,7 +8,7 @@
   "server": {
     "ip": "banz.play.hosting",
     "port": 6286,
-    "version": "26.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
